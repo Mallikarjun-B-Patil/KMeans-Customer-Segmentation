@@ -27,4 +27,8 @@ The dataset contains customer details such as:
 - Identified distinct customer groups based on spending habits.  
 - Provided actionable insights for targeted marketing strategies.  
 
-
+## 📌 How to Run
+Clone the repository:
+   ```bash
+   git clone https://github.com/Mallikarjun-B-Patil/KMeans-Customer-Segmentation.git
+   ```
